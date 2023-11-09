@@ -1,2 +1,2 @@
 # Oh.studio-clone
-This a clone of this web design studio: https://oh.studio/\
+This a clone of this web design studio: https://oh.studio/
